@@ -55,6 +55,16 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "[SideBarGit@SublimeText tageskinder/] git pull\n\n# Improve this command, the output or the tab title by posting here:\n# http://www.sublimetext.com/forum/viewtopic.php?f=5&t=3405\n# Tip: F5 will run the command again and refresh the contents of this tab\n\nAlready up-to-date.",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix",
+				"name": "No Title",
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,7 +74,7 @@
 		[
 			[
 				"Package Control: ",
-				"Package Control: List Packages"
+				"Package Control: Install Package"
 			],
 			[
 				"Package Control: in",
@@ -108,6 +118,17 @@
 	},
 	"file_history":
 	[
+		"/home/hkramer/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/hkramer/www/tageskinder/tageskinder.sublime-project",
+		"/home/hkramer/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/hkramer/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hkramer/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+		"/home/hkramer/.config/sublime-text-3/Packages/SublimeGit/Default (Linux).sublime-keymap",
+		"/home/hkramer/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/hkramer/.config/sublime-text-3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/home/hkramer/.config/sublime-text-3/Packages/User/SideBarGit.sublime-settings",
+		"/home/hkramer/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hkramer/www/tageskinder/htdocs/.gitignore",
 		"/home/hkramer/www/arts/sites/default/settings.php",
 		"/home/hkramer/www/arts/sites/all/modules/arts/arts_stellen/arts_stellen.module",
 		"/home/hkramer/www/arts/sites/all/modules/arts/sync_data_server/sync_data_server.module",
@@ -202,8 +223,157 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SideBarGitBackground": false,
+							"SideBarGitCommand":
+							[
+								"git",
+								"pull"
+							],
+							"SideBarGitIsASideBarGitTab": true,
+							"SideBarGitItem": "/home/hkramer/www/tageskinder",
+							"SideBarGitModal": true,
+							"SideBarGitNoResults": "No output to show",
+							"SideBarGitSyntaxFile": false,
+							"SideBarGitTitle": "No Title",
+							"SideBarGitToStatusBar": false,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"default_dir": "/home/hkramer/www",
+							"encoding": "UTF-8",
+							"fallback_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
